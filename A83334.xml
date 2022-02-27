@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance to prohibite the transporting of wooll, and fullers-earth</title>
+            <title>Proceedings. 1647-01-19</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83334</idno>
+            <idno type="STC">Wing E2115A</idno>
+            <idno type="STC">ESTC R232021</idno>
+            <idno type="EEBO-CITATION">99897651</idno>
+            <idno type="PROQUEST">99897651</idno>
+            <idno type="VID">170888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2515:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance to prohibite the transporting of wooll, and fullers-earth</title>
+                  <title>Proceedings. 1647-01-19</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fuller's earth --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Wool industry --  Law and legislation --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:170888:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:170888:1"/>
+            <!-- PDF PAGE 79 -->
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 19 Ianuarii, 1647.</date>
+               </dateline>
+            </opener>
+            <head>An ORDINANCE to pro<g ref="char:EOLhyphen"/>hibite the tranſporting of Wooll, and Fullers-Earth.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Ordained by the Lords and Commons, That it ſhall not be lawfull for any perſon or perſons to lade, ſhip, or carry in any Ship, Barge, Boat or other Veſſell, or other<g ref="char:EOLhyphen"/>wiſe any Wooll of the growth of the Kingdomes of <hi>England</hi> or <hi>Ireland,</hi> or Dominion of <hi>Wales,</hi> or any woollen, yarne, woollen-flox, wooll-fell, Ful<g ref="char:EOLhyphen"/>lers-earth,
+<pb n="2" facs="tcp:170888:2"/>
+               <!-- PDF PAGE 80 -->
+Clay, Tobacco-pipe clay, or any other earth or clay which may be uſed in the Art of Fulling, of intent to tranſport, or carry the ſame into any place or places of the parts be<g ref="char:EOLhyphen"/>yond the Seas, or into the Realme of <hi>Scotland</hi> by Land or by Sea, or to carry the ſame to any Ship, or other Veſſell whatſoever to be tranſported, upon the paines and forfeitures here<g ref="char:EOLhyphen"/>after enſuing, that is to ſay, Vpon the paine of the forfeiture of the ſaid wools, woollen-yarne, woollen-flox, wooll-fell, and earth or clay ſo laden, ſhipped, carryed, or tranſported, and three ſhillings for every pound of ſuch wooll, yarne, flox, and earth, or clay; And for every pound weight of the ſaid earth or clay, three ſhillings to be forfeited by the Owner or Owners thereof; And alſo the Owner of the ſaid Ships or Veſſels, knowing of ſuch offence, to forfeit all their Inte<g ref="char:EOLhyphen"/>reſt in the ſaid Ships or Veſſels,
+<pb n="3" facs="tcp:170888:2"/>
+               <!-- PDF PAGE 80 -->
+with all their Apparell and furniture to them and every of them belonging; And the Maſter and Mariners, knowing of ſuch offence, to forfeit all their goods and chattels, and to have impriſonment by the ſpace of one whole yeare without bayle or main-priſe. And further, that if any ſuch wooll, woollen-yarne, woollen-flox, wooll-fell, or any of the ſaid earth, or clay, be laid in any place whatſoever with intention to tranſport, or that the ſame ſhould be tranſported be<g ref="char:EOLhyphen"/>yond Sea, or with intention to tranſ<g ref="char:EOLhyphen"/>port or convey the ſame, or that the ſame ſhould be tranſported or con<g ref="char:EOLhyphen"/>veyed to any other Port or place by Sea in <hi>England</hi> or <hi>Wales,</hi> and ſhall not in ſuch caſe where the ſame is to be tranſported or conveyed by Sea to any other place in <hi>ENGLAND</hi> or <hi>WALES,</hi> as aforeſaid, enter, or cauſe to be entred, ſufficient Obli<g ref="char:EOLhyphen"/>gation with the Cuſtomer, and Comptroller of the Port, to ſuch place
+<pb n="4" facs="tcp:170888:3"/>
+               <!-- PDF PAGE 81 -->
+belonging, or as is next unto the ſame, for the true delivery thereof at ſome other place of this Realme; That then the ſaid Wools, Woollen-yarne, woollen-flox, wooll-fels, and earth, or clay, and three ſhillings for every pound weight of the ſaid earth, or clay, ſhal be forfeted by the owners thereof. And it is further Ordained, That if any Merchant, or any other perſon or perſons ſhall tranſport, or cauſe to be tranſported, any of the ſaid earth, or clay, wooll, woollen-yarne, or woollen-flox, or wooll-fels, con<g ref="char:EOLhyphen"/>trary to the intent of this Ordinance, That then he ſhall be diſabled for re<g ref="char:EOLhyphen"/>quiring any Debt or Accompt of any Factor or others, for, or concerning any Debt or Eſtate properly belong<g ref="char:EOLhyphen"/>ing to ſuch Merchant and Offendor, to his owne uſe: And if any Owner of the Land where ſuch clay or earth is digged or gotten, ſhall be privy unto, or know of ſuch tranſportation by any perſon or perſons, and ſhall not
+<pb n="5" facs="tcp:170888:3"/>
+               <!-- PDF PAGE 81 -->
+diſcover the ſame unto ſome Iuſtice or Iuſtices of the Peace, within three months of ſuch his knowledge, he ſhall for every ſuch offence forfeit five hundred pounds of lawfull mo<g ref="char:EOLhyphen"/>ney of <hi>England:</hi> And if ſuch Iuſtice of Peace to whom ſuch diſcovery ſhall be made, ſhall not certifie the ſame un<g ref="char:EOLhyphen"/>der his hand and ſeale to the Barons of the Exchequer, or any one of them, within three moneths following, he ſhall for every ſuch offence forfeit one hundred pounds of like lawfull money.</p>
+            <p>And it is further Ordained, That all and every Perſon, Owner, or Oc<g ref="char:EOLhyphen"/>cupier of any grounds where ſuch earth or clay as aforeſaid ſhall be dig<g ref="char:EOLhyphen"/>ged or taken, or Owner, or Occupier of ſuch earth or clay, that ſhall ſell or diſpoſe of the ſame, ſhall keep one, or more Books, wherein he ſhall enter from time to time the quantities of all ſuch clay or earth by him ſold, the
+<pb n="6" facs="tcp:170888:4"/>
+               <!-- PDF PAGE 82 -->
+name or names of the perſon, or perſons to whom ſuch ſale ſhall be made, and the place of his habitation or aboad, and ſhall once in ſix moneths give a note in writing of all ſuch Fullers earth or clay ſold or diſpoſed to the Iuſtices of the Peace, or any one of them next, or neare ad<g ref="char:EOLhyphen"/>joyning to the place where ſuch earth or clay is or ſhall be at the time of the ſale or diſpoſition thereof on paine to forfeit for every hundred weight the ſumme of twenty ſhillings of lawfull money of <hi>England</hi> for every ſuch neg<g ref="char:EOLhyphen"/>lect; and that a ſufficient Perſon, of the profeſſion of a Clothier, or Fuller of the county of <hi>Kent,</hi> ſhall by the Ba<g ref="char:EOLhyphen"/>rons of the Exchequer be appointed to keep a Book, of the entries of the true quantities of ſuch earth or clay meaſured and received from the Pits or Store-houſes thereof, and to cer<g ref="char:EOLhyphen"/>tify ſuch his Booke halfe yearely into the Court of Exchequer upon Oath,
+<pb n="7" facs="tcp:170888:4"/>
+               <!-- PDF PAGE 82 -->
+and to have ſuch ſumme or ſumms of money as the ſaid Committee of the Navie and Cuſtomes ſhall thinke fit, not exceeding ſix pence for every load, containing twenty two buſhells of ſuch earth and clay ſo received by the Receiver thereof; and that one half or moyty of all the forfeitures be<g ref="char:EOLhyphen"/>fore mentioned ſhall be paid to the Commiſſioners and Collectors of the Cuſtomes for the time being, for the uſe of the Navy, or to ſuch uſe as the ſaid Houſes of Parliament ſhall order or appoint, and the other moyety thereof to be to ſuch perſon, and perſons as ſhall ſeize or ſue for the ſame by Bill Plaint, or Informa<g ref="char:EOLhyphen"/>tion in the Court of Exchequer, and the Goods ſo ſeized to be by the Sei<g ref="char:EOLhyphen"/>ſor from time to time Regiſtred, with the Officer thereunto appointed in the Cuſtome-houſe of <hi>London:</hi> And it is further Ordered by the ſaid Lords and Commons That the Ba<g ref="char:EOLhyphen"/>rons of the ſaid Court of Exchequer,
+<pb n="8" facs="tcp:170888:5"/>
+               <!-- PDF PAGE 83 -->
+and all other the Officers, and Mini<g ref="char:EOLhyphen"/>ſters of the ſaid Court reſpectively for the time being doe, and ſhall, and are hereby authorized, and required to re<g ref="char:EOLhyphen"/>ceive and proceed to Iudgement up<g ref="char:EOLhyphen"/>on ſuch Bill, Plaint, or Information according to the courſe of that Court, heretofore uſed for the recovery of forfeited Goods, for non payment of Tonnage and Poundage when the ſame were granted by Act of Parlia<g ref="char:EOLhyphen"/>ment. And that the Barons of the ſaid Court of Exchequer, his Maje<g ref="char:EOLhyphen"/>ſties Atturney, or Solicitor Gene<g ref="char:EOLhyphen"/>rall, or any three of them, whereof the ſaid Atturney, or Solicitor Ge<g ref="char:EOLhyphen"/>nerall to be one, ſhall, and may com<g ref="char:EOLhyphen"/>pound for the part of the ſaid forfei<g ref="char:EOLhyphen"/>ture, appointed to the uſe of the Navie as aforeſaid, and upon ſuch compoſi<g ref="char:EOLhyphen"/>tion made, the ſaid Court of Exche<g ref="char:EOLhyphen"/>quer to give Iudgement for the diſ<g ref="char:EOLhyphen"/>charge of ſuch forfeiture againſt his Majeſty; and that any of the Barons of the ſaid Exchequer ſhall, and may
+<pb n="9" facs="tcp:170888:5"/>
+               <!-- PDF PAGE 83 -->
+give Licence to ſuch Informer, to compound with the Defendant for the ſaid other part of the ſaid forfei<g ref="char:EOLhyphen"/>ture.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii, 19 Ianuarii, 1647.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Lords and Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament, That no Wooll of the growth of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> be tranſported in any Ship or Veſſell into any parts out of that Kingdome (except into the Kingdome of <hi>England</hi> and Dominion of <hi>Wales</hi>) upon any Warrant or pretence what<g ref="char:EOLhyphen"/>ſoever, upon paine of forfeiture of the ſaid Wools, and that the Commiſsioners and Officers of the Cuſtomes and Ports in that Kingdome, doe take ef<g ref="char:EOLhyphen"/>fectuall care, and imploy their dili<g ref="char:EOLhyphen"/>gence,
+<pb facs="tcp:170888:6"/>
+                  <!-- PDF PAGE 84 -->
+that this Order be duely obſer<g ref="char:EOLhyphen"/>ved, and that they be very carefull to take good ſecurity, to the double value of the Wools ſhipped; That the tranſ<g ref="char:EOLhyphen"/>porters will unſhip and deliver the ſaid Wools in ſome Port of the King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> or Dominion of <hi>Wales,</hi> and that they will not tranſport the ſaid Wools into any other part of place whatſoever, and that they doe bring Certificate that they have de<g ref="char:EOLhyphen"/>livered the ſame accordingly; and that the Governors of the Provinces, and Commanders in chiefe of the For<g ref="char:EOLhyphen"/>ces in that Kingdome, doe give order and charge, and take care, That all the Officers of Ports whom it may con<g ref="char:EOLhyphen"/>cerne, doe duely obſerve this Order.</p>
+               <closer>
+                  <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:170888:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </body>
+   </text>
+</TEI>
